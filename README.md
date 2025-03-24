@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/status-complete-success)
+![Tech](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
+
 # 🕵️‍♀️ Fraud Detection in Job Postings
 
 This project uses machine learning to detect fraudulent job postings from a dataset of 18,000 real-world job listings, including 800+ known fraudulent posts. It aims to help job seekers avoid scams by flagging suspicious listings based on patterns in the data.
@@ -55,3 +61,14 @@ This project uses machine learning to detect fraudulent job postings from a data
 ```bash
 git clone https://github.com/srilekhatv/fraud-detection-ml.git
 cd fraud-detection-ml
+
+
+2. (Optional) Create a virtual environment and install packages:
+
+```bash
+pip install pandas numpy scikit-learn jupyter
+
+
+💡 Author
+Srilekha Tirumala Vinjamoori
+LinkedIn • GitHub
