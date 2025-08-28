@@ -58,10 +58,9 @@ This pipeline successfully identified **800+ fake postings**, reducing risk for 
 ---
 
 ## 📂 Repository Structure
-fraud_detection.ipynb → Full notebook with code & outputs
-fake_job_postings.csv → Dataset (Kaggle-sourced, ~18k rows)
-assets/ → Plots (confusion matrix, ROC curve)
-README.md → Project documentation
+- fraud_detection.ipynb → Full notebook with code & outputs
+- fake_job_postings.csv → Dataset (Kaggle-sourced, ~18k rows)
+- README.md → Project documentation
 
 yaml
 Copy code
@@ -82,3 +81,4 @@ Copy code
 - Build a **real-time fraud monitoring dashboard** for job boards.  
 
 ---
+
